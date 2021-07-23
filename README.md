@@ -1,6 +1,5 @@
 
 **Course:** Computer Security
-topics: Asymmetric Encryption with GPG, Spoofing email sender, Password cracking, Man in the middle attack
 
 **Objective:** 
 Defense and attack of components that interact with security-critical parts of users’ workflow.
@@ -9,6 +8,12 @@ Defense and attack of components that interact with security-critical parts of u
 Python
 
 **Files:**
+
+Topics: 
+-Asymmetric Encryption with GPG, 
+-Spoofing email sender, 
+-Password cracking, 
+-Man in the middle attack
 
 Q1.2 Encrypted email exercise
 - "fingerprint": uploaded to kerserver ('hkp://keys.gnup.net') the hexadecimal ID associated with my newly generated public key (Q1.2.2)
